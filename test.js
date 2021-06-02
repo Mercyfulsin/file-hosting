@@ -1,3 +1,7 @@
+<script type="text/javascript" src="https://www.evga.com/includes/js/jquery/jquery-3.6.0.min.js"></script>
+<script type="text/javascript" src="https://www.evga.com/includes/js/jquery/jquery-migrate-3.3.2.min.js"></script>
+<script type="text/javascript" src="https://www.evga.com/includes/js/jquery-ui/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
 $(document).ready(function () {
         $('.main-wrapper').before($('.nav-breadcrumb'));
         if ($('.grid-item-outer').length > 0) {
